@@ -1,0 +1,53 @@
+body{
+    margin: 0px;
+  padding: 0px;
+  width: 100vw;
+  overflow-x: hidden;
+}
+.but{
+    background-color:#EDCB8B;
+}
+.bg-3{
+    background-image: url('/img/bcak-img.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.limo{
+    font-size: 50px;
+}
+.cent{
+    background-color: orange;
+}
+.you{
+    background-color: #EDCB8B;
+}
+.col{
+    color:#EDCB8B ;
+}
+.bor{
+    border:3px dotted #EDCB8B;
+}
+.fon{
+    color:black;
+}
+.spec{
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.fan-3{
+    line-height: 0.5;
+}
+.fan{
+    width: 250px;
+}
+.border-2{
+    border-top:1px solid black;
+}
+.lowest{
+    background-color:#EDCB8B; 
+}
+.rat{
+    word-spacing: 15px;
+}
